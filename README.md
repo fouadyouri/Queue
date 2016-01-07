@@ -1,10 +1,10 @@
 # Queue
-Queue implementation with 7 functions in c++
+<b>Queue implementation with 7 functions in c++</b>
 
-peek() - Reach/print the front element (without dequeue!).<br>
-isFull() - Check is the queue is full.<br>
-isEmpty() - Check if the queue is Empty.<br>
-enqueue(int) - Add an element to the queue.<br>
-dynamicDequeue() - Delete an element from the queue(Dynamic queue!).<br>
-staticDequeue() - Delete an element from the queue(Static queue!).<br>
-print() - Print the queue.<br>
+<b>peek()</b> - Reach/print the front element (without dequeue!).<br>
+<b>isFull()</b> - Check is the queue is full.<br>
+<b>isEmpty()</b> - Check if the queue is Empty.<br>
+<b>enqueue(int)</b> - Add an element to the queue.<br>
+<b>dynamicDequeue()</b> - Delete an element from the queue(Dynamic queue!).<br>
+<b>staticDequeue()</b> - Delete an element from the queue(Static queue!).<br>
+<b>print()</b> - Print the queue.<br>
